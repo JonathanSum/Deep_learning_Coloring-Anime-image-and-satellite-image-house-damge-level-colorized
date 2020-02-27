@@ -1,6 +1,7 @@
 # Deep-Projects
 
 First Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture.
+Left picture is prediction and the right is truth label or correct answer.
 <img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg">
 <img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg">
 <img src="https://forums.fast.ai/uploads/default/original/3X/b/3/b37a48e2fe7f5a406bc0e0a9568d14f322368f8e.jpeg">

@@ -1,4 +1,4 @@
-# Deep-Projects(Power of no GAN or little GAN)
+# Deep-Projects(Power of no GAN)
 
 
 Coloring a Anime Happy Sugar Life, this project colors the Happy Sugar Life Anime after it is being processed to black and white. I love this Anime because it talks about a girl whose parent passed away and search for love.

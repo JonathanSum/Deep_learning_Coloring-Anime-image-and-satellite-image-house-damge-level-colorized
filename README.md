@@ -1,4 +1,4 @@
-# Deep-Projects(Power of no GAN)
+# Deep-Projects(Power of Unet, training time 1 to 3 hours)
 
 
 Coloring a Anime Happy Sugar Life, this project colors the Happy Sugar Life Anime after it is being processed to black and white. I love this Anime because it talks about a girl whose parent passed away and search for love.

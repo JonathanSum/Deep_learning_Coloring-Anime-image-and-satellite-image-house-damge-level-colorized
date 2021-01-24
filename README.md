@@ -23,5 +23,5 @@ Thank You Fastai for teaching. If you want, you can check out Jason Antic's colo
 
 Update for the coloring. As you can see, there are many coloring on the internet that did way better than me. However, if someone wants it, I think I can give you my colab that I did like one year ago. You only need to train it on colab for 3 to 4 hours. My little request is to cite my work. 
 
-These days, I have been thinking to make it better and decrease the training time, and I don't think it is difficult to do it. But I have been so busy with my daily works and learning new techniques. I also have plan to do something more advance and abstract rather than stucking in the past of this coloring idea.
+These days, I have been thinking to make it better and decrease the training time, and I don't think it is difficult to do it. But I have been so busy with my daily works and learning new techniques. I also have plan to do something more advance and abstract rather than sticking in the past of this coloring idea.
 

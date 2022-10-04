@@ -1,18 +1,10 @@
 # Deep-Projects(Power of Unet, training time 1 to 3 hours)
 
 
-Coloring a Anime Happy Sugar Life, this project colors the Happy Sugar Life Anime after it is being processed to black and white. I love this Anime because it talks about a girl whose parent passed away and search for love.
-Left is input, middle is prediction, and the right is the truth label.
-Thus, you can see it is not perfect that it often only colors the hair and face rather than the clothes too. That is because I used a pre-trained model that can only do that. In the future if I have enought time, I will make it better if I have time...
-<img src="https://forums.fast.ai/uploads/default/original/3X/9/7/972810f2af4994ca44d82f7f9f059b9e03cafd93.jpeg">
-<img src="https://forums.fast.ai/uploads/default/original/3X/e/d/edc4443473b7c7e034645fa2546590301f9bc822.jpeg">
-<img src="https://forums.fast.ai/uploads/default/original/3X/d/d/dd155f2451d4a093194754323065924d63c773ed.jpeg">
-<img src="https://forums.fast.ai/uploads/default/original/3X/e/1/e1fcb5188a230989cc40413fd9574de23ae2048b.jpeg">
-<img src="https://forums.fast.ai/uploads/default/original/3X/d/7/d7acc25a41d5b08f571ddf2fa6034c9ab6d56477.jpeg">
-<img src="https://forums.fast.ai/uploads/default/original/3X/c/4/c4196b65edbe41a277e992eae9f0c5e60bcb897a.jpeg">
 
 
-Second Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture.
+
+FIrst Project, It is a natural disaster damage level classification on house. I can see my model is even better than human that can pick some unlabeled picture.
 Right picture is prediction and the left is truth label or correct answer.
 <img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg">
 <img src="https://forums.fast.ai/uploads/default/original/3X/4/2/4205801776f93beba33ba9715a9ba30cd7be523b.jpeg">
@@ -24,4 +16,14 @@ Thank You Fastai for teaching. If you want, you can check out Jason Antic's colo
 Update for the coloring. As you can see, there are many coloring on the internet that did way better than me. However, if someone wants it, I think I can give you my colab that I did like one year ago. You only need to train it on colab for 3 to 4 hours. My little request is to cite my work. 
 
 These days, I have been thinking to make it better and decrease the training time, and I don't think it is difficult to do it. But I have been so busy with my daily works and learning new techniques. I also have plan to do something more advance and abstract rather than sticking in the past of this coloring idea.
+
+Second project, it is coloring a Anime Happy Sugar Life, this project colors the Happy Sugar Life Anime after it is being processed to black and white. I love this Anime because it talks about a girl whose parent passed away and search for love.
+Left is input, middle is prediction, and the right is the truth label.
+Thus, you can see it is not perfect that it often only colors the hair and face rather than the clothes too. That is because I used a pre-trained model that can only do that. In the future if I have enought time, I will make it better if I have time...
+<img src="https://forums.fast.ai/uploads/default/original/3X/9/7/972810f2af4994ca44d82f7f9f059b9e03cafd93.jpeg">
+<img src="https://forums.fast.ai/uploads/default/original/3X/e/d/edc4443473b7c7e034645fa2546590301f9bc822.jpeg">
+<img src="https://forums.fast.ai/uploads/default/original/3X/d/d/dd155f2451d4a093194754323065924d63c773ed.jpeg">
+<img src="https://forums.fast.ai/uploads/default/original/3X/e/1/e1fcb5188a230989cc40413fd9574de23ae2048b.jpeg">
+<img src="https://forums.fast.ai/uploads/default/original/3X/d/7/d7acc25a41d5b08f571ddf2fa6034c9ab6d56477.jpeg">
+<img src="https://forums.fast.ai/uploads/default/original/3X/c/4/c4196b65edbe41a277e992eae9f0c5e60bcb897a.jpeg">
 
